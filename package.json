@@ -1,23 +1,25 @@
 {
-  "name": "react-native-admob",
-  "version": "2.0.0-beta.5",
+  "name": "@talaikis/react-native-admob",
+  "version": "1.0.3",
   "description": "A react-native component for Google AdMob banners and interstitials",
   "author": "Simon Bugert <simon.bugert@gmail.com>",
   "main": "index.js",
   "license": "BSD-2-Clause",
+  "homepage": "https://taaikis.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:sbugert/react-native-admob.git"
+    "url": "https://github.com/TalaikisInc/react-native-admob"
+  },
+  "scripts": {
+    "publish": "npm publish --access public"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.44.0"
+    "prop-types": "^15.5.10",
+    "react-native": "^0.60.5"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.3.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
     "eslint-plugin-react": "^7.1.0"
   }
 }

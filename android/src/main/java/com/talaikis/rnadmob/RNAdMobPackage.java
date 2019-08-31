@@ -1,4 +1,4 @@
-package com.sbugert.rnadmob;
+package com.talaikis.rnadmob;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

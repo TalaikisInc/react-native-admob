@@ -1,8 +1,8 @@
-package com.sbugert.rnadmob;
+package com.talaikis.rnadmob;
 
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;
