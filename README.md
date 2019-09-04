@@ -1,6 +1,6 @@
 # react-native-admob [![npm](https://img.shields.io/npm/v/react-native-admob.svg)](https://www.npmjs.com/package/react-native-admob) [![npm (next)](https://img.shields.io/npm/v/react-native-admob/next.svg)](https://www.npmjs.com/package/react-native-admob)
 
-This fork is working version for RN 0.60+. Don't link this package, autolinking qworks fine.
+This fork is working version for RN 0.60+. Don't link this package, autolinking works fine.
 
 A react-native module for Google AdMob Banners, Interstitials, and Rewarded Videos, and also DFP Banners.
 
