@@ -1,6 +1,6 @@
 {
   "name": "@talaikis/react-native-admob",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A react-native component for Google AdMob banners and interstitials",
   "author": "Simon Bugert <simon.bugert@gmail.com>",
   "main": "index.js",
@@ -14,8 +14,7 @@
     "publish": "npm publish --access public"
   },
   "dependencies": {
-    "prop-types": "^15.5.10",
-    "react-native": "^0.60.5"
+    "prop-types": "^15.5.10"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
